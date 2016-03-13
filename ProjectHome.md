@@ -1,0 +1,2 @@
+Content Management System for Adobe Flash using Microsoft's .net
+Framework. Written in C# and using a MSSQL database for storing all data. RSS feeds will be generated on the fly for interfacing with a Flash front end.
